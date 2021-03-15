@@ -1,4 +1,4 @@
-let services = [
+let datas = [
   {
     name: 'Web Development',
     price: 300,
@@ -25,4 +25,4 @@ let promos = {
   AZ: 0.01,
   UBOAT: 0.02,
 };
-export { services, promos };
+export { datas, promos };
